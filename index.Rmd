@@ -1,0 +1,27 @@
+---
+title: "NHS-R Community"
+image: "https://raw.githubusercontent.com/nhs-r-community/assets/main/logo/nhsr-logo.png"
+links:
+  - label: Website
+    url: "https://nhsrcommunity.com/"
+  - label: NHS-R Way
+    url: "https://nhsrway.nhsrcommunity.com/"
+  - label: Slack
+    url: "https://join.slack.com/t/nhsrcommunity/shared_invite/zt-2jyktdbx3-CP~VxJn8zRJDgdfFcNNi6A"
+  - label: GitHub
+    url: "https://github.com/nhs-r-community"
+  - label: YouTube
+    url: "https://www.youtube.com/c/nhsrcommunity"
+  - label: Email
+    url: "mailto:nhs.rcommunity@nhs.net"
+output:
+  postcards::trestles
+---
+ 
+Welcome to NHS-R Community's information postcard!
+
+No matter where you are in your journey in learning R you are welcome to use all and resuse our resources and these are a few links to get started. 
+
+If you want to get in touch with the community you will find us at Slack and the link here is a direct invitation.
+
+We hope to see you soon!
