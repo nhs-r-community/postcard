@@ -1,6 +1,6 @@
 ---
 title: "NHS-R Community"
-image: "https://raw.githubusercontent.com/nhs-r-community/assets/main/logo/nhsr-logo.png"
+image: "img/nhsr-logo.png"
 links:
   - label: Website
     url: "https://nhsrcommunity.com/"
@@ -15,7 +15,7 @@ links:
   - label: Email
     url: "mailto:nhs.rcommunity@nhs.net"
 output:
-  postcards::trestles
+  postcards::jolla
 ---
  
 Welcome to NHS-R Community's information postcard!
