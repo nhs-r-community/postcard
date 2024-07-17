@@ -20,7 +20,7 @@ output:
  
 Welcome to NHS-R Community's information postcard!
 
-No matter where you are in your journey in learning R you are welcome to use all and resuse our resources and these are a few links to get started. 
+No matter where you are in your journey in learning R you are welcome to use all and reuse our resources and these are a few links to get started. 
 
 If you want to get in touch with the community you will find us at Slack and the link here is a direct invitation.
 
