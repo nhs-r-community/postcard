@@ -7,7 +7,7 @@ links:
   - label: NHS-R Way
     url: "https://nhsrway.nhsrcommunity.com/"
   - label: Slack
-    url: "https://join.slack.com/t/nhsrcommunity/shared_invite/zt-2jyktdbx3-CP~VxJn8zRJDgdfFcNNi6A"
+    url: "https://join.slack.com/t/nhsrcommunity/shared_invite/zt-2r1yjgkio-steh_TwjVUJXdMDhKl~kjA"
   - label: GitHub
     url: "https://github.com/nhs-r-community"
   - label: YouTube
