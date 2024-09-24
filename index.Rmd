@@ -6,6 +6,8 @@ links:
     url: "https://nhsrcommunity.com/"
   - label: NHS-R Way
     url: "https://nhsrway.nhsrcommunity.com/"
+  - label: Substack Newsletter
+    url: "https://nhsrcommunity.substack.com/"
   - label: Slack
     url: "https://join.slack.com/t/nhsrcommunity/shared_invite/zt-2r1yjgkio-steh_TwjVUJXdMDhKl~kjA"
   - label: GitHub
