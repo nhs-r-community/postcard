@@ -16,14 +16,16 @@ links:
     url: "https://www.youtube.com/c/nhsrcommunity"
   - label: Email
     url: "mailto:nhs.rcommunity@nhs.net"
+  - label: Coffee and Coding
+    url: "https://nhsrway.nhsrcommunity.com/community-handbook.html#coffee-and-coding"
 output:
   postcards::jolla
 ---
  
 Welcome to NHS-R Community's information postcard!
 
-No matter where you are in your journey in learning R you are welcome to use all and reuse our resources and these are a few links to get started. 
+No matter where you are in your journey in learning R you are welcome to use all and reuse our resources and these are a few links to [get started](https://nhsrcommunity.com/getting-started.html) or [get involved](https://nhsrcommunity.com/get-involved.html). 
 
-If you want to get in touch with the community you will find us at Slack and the link here is a direct invitation.
+If you want to get in touch with the community you will find us at Slack.
 
 We hope to see you soon!
