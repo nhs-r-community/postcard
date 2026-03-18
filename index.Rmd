@@ -27,6 +27,6 @@ Welcome to NHS-OA Community's information postcard!
 No matter where you are in your journey in learning open coding you are welcome 
 to use and reuse all our resources. 
 
-We are on [LinkedIn](https://www.linkedin.com/search/results/all/?fetchDeterministicClustersOnly=true&heroEntityKey=urn%3Ali%3Aorganization%3A98205916&keywords=nhs-r%20community&origin=RICH_QUERY_SUGGESTION&position=1&sid=GfV), [Fosstodon](https://fosstodon.org/@NHSrCommunity) and [Bluesky](https://bsky.app/profile/nhsrcommunity.bsky.social) but most of all you will find us at [Slack](https://join.slack.com/t/nhsrcommunity/shared_invite/zt-2r1yjgkio-steh_TwjVUJXdMDhKl~kjA).
+We are on [LinkedIn](https://www.linkedin.com/company/nhs-open-analytics-community/), [Fosstodon](https://fosstodon.org/@NHSrCommunity) and [Bluesky](https://bsky.app/profile/nhsrcommunity.bsky.social) but most of all you will find us at [Slack](https://join.slack.com/t/nhsrcommunity/shared_invite/zt-2r1yjgkio-steh_TwjVUJXdMDhKl~kjA).
 
 We hope to see you soon!
