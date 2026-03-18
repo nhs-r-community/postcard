@@ -1,6 +1,6 @@
 ---
 title: "NHS-OA Community"
-image: "img/18.png"
+image: "img/nhs-oa-logo-white.png"
 links:
   - label: Website
     url: "https://nhsrcommunity.com/"
