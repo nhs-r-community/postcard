@@ -11,7 +11,7 @@ links:
   - label: Slack
     url: "https://join.slack.com/t/nhsrcommunity/shared_invite/zt-2r1yjgkio-steh_TwjVUJXdMDhKl~kjA"
   - label: GitHub
-    url: "https://github.com/nhs-r-community"
+    url: "https://github.com/nhs-oa-community"
   - label: YouTube
     url: "https://www.youtube.com/c/nhsrcommunity"
   - label: Email
